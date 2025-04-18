@@ -1,0 +1,11 @@
+Position,CountryID,Country,J,G,E,P,GF,GC,DIF,PTS,Classiification
+1,ARG,Argentina,13,9,1,3,22,7,15,28,Classified
+2,ECU,Ecuador,13,7,4,2,13,5,8,22,Classified
+3,BRA,Brasil,13,6,3,4,19,12,7,21,Classified
+4,URU,Uruguay,13,5,5,3,17,10,7,20,Classified
+5,PAR,Paraguay,13,5,5,3,9,7,2,20,Classified
+6,COL,Colombia,13,5,4,4,16,12,4,19,Classified
+7,BOL,Bolívia,13,4,1,8,14,30,-16,13,Repesca
+8,VEN,Venezuela,13,2,6,5,12,17,-5,12,Eliminated
+9,PER,Perú,13,2,4,7,6,16,-10,10,Eliminated
+10,CHI,Chile,13,2,3,8,9,21,-12,9,Eliminated
